@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/lumybee/lumybee/assets/146353754/ee5607ba-701a-431a-9903-f4bc2b137fa4)### Hi there 👋
 
 <!--
 **lumybee/lumybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 About Me
+ ` ` `👋 About Me
 
 Greetings! I'm a seasoned Frontend Engineer, dedicated to the art of creating exceptional user interfaces. Specializing in React, React-Native, and Next.js, my focus is on engineering top-notch frontend solutions that elevate user experiences.
 
-### 🚀 Expertise
+ ` ` ` 🚀 Expertise
 
 I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects.
 
