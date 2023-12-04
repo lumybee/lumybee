@@ -1,4 +1,4 @@
-![image](https://github.com/lumybee/lumybee/assets/146353754/ee5607ba-701a-431a-9903-f4bc2b137fa4)### Hi there 👋
+
 
 <!--
 **lumybee/lumybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
