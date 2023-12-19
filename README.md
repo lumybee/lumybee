@@ -1,3 +1,5 @@
+![Hi I am Lumya](https://github.com/lumybee/lumybee/assets/146353754/171dfaec-74fe-494c-8584-01301316bac8)
+
 ### 🙋🏻 Welcome to My Github Page
 
 <p>
