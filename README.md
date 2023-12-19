@@ -10,5 +10,5 @@
   <li>💤 I like to sleep in free time</li>
 </ul>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumybee&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=lumybee&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8" />
 
