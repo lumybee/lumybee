@@ -9,5 +9,5 @@
   <li>🎧 I like listen to Mitski</li>
   <li>💤 I like to sleep in free time</li>
 </ul>
-[!(https://github-readme-stats.vercel.app/api?username=lumybee)](https://github.com/lumybee/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumybee)](https://github.com/anuraghazra/github-readme-stats)
 
