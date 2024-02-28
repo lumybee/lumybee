@@ -2,7 +2,7 @@
 ### 🙋🏻 Welcome to My Github Page
 
 <p>
-  I am a university student. I am learning how to code and currently focusing on how to be a Front End Developer because making websites using HTML and CSS fasinates me. I also enjoy programming in Java because this language is very challenging according to me.
+  I am a university student. I am learning how to code and currently focusing on how to be a Front End Developer because making websites using HTML and CSS fasinates me. I am now focusing on C++ also and hope that I will enjoy this language too
 </p>
 <ul>
   <li>💻 I am currently learning CSS and Java</li>
