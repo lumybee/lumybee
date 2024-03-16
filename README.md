@@ -5,8 +5,8 @@
   I am a university student. I am learning how to code and currently focusing on how to be a Front End Developer because making websites using HTML and CSS fasinates me. I am now focusing on C++ also and hope that I will enjoy this language too
 </p>
 <ul>
-  <li>💻 I am currently learning CSS and Java</li>
-  <li>🚧 I am focusing on making small and good looking webpages and learning how to make perfect</li>
+  <li>💻 I am currently learning react and C++</li>
+  <li>🚧 I am focusing on making small and good looking webpages and learning how to make them perfect</li>
   <li>🎧 I like listen to Mitski</li>
   <li>💤 I like to sleep in free time</li>
 </ul>
